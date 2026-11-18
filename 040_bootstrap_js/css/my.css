@@ -1,0 +1,9 @@
+.card-subtitle {
+  margin-top: 1.5rem;
+}
+
+.people {
+  align-self: center;
+  height: 200px;
+  width: fit-content;
+}

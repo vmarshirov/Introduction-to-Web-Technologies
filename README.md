@@ -1,1 +1,20 @@
-# Introduction-to-Web-Technologies
+# Introduction to Web Technologies
+### Начальная страница дисциплины "Основы web-технологий"
+
+
+
+##### 
+
+
+Рабочая ведомость, видео, сжатые архивы и др. (2026) размещены на:https://disk.360.yandex.ru/d/JLsogZMpUKbqbQ
+<br> Копии перечисленного выше размещены на: https://1drv.ms/f/c/fdb8e668f368a4b4/IgBREbtnqUXFRL1PdVCarI0WAf3Mp5Hn9Gg0ddE0vRzhO3Q?e=sMp0FB
+
+<!--##### https://github.com/vmarshirov/BWT_Ed - здесь лежат фрагменты с лекций
+-->
+
+##### Требования к контрольной работе 1 (с подробными пояснениями ) в:  <br>https://github.com/vmarshirov/Introduction-to-Web-Technologies/tree/main/task_01
+
+##### Требования к контрольной работе 2 в: <br>https://github.com/vmarshirov/Introduction-to-Web-Technologies/blob/main/task_02/ReadMe.md
+
+
+Если возникают срочная  необходимость: vmarshirov@hse.ru; телефон +79081605316   

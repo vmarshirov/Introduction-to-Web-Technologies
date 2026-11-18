@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Flexbox example</title>
+    <link href="./fb.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <parent>
+
+        <child class="order_align-self">
+            <h3>Child1 (.order_align-self)</h3>
+            <img src="" alt="">
+            <p>Содержание параграфа. Содержание параграфа. Содержание параграфа.</p>
+        </child>
+
+        <child class="basis_grow_shrink">
+            <h3>Child2 (.basis_grow_shrink)</h3>
+            <img src="" alt="">
+            <p>Содержание параграфа. Содержание параграфа. Содержание параграфа. Содержание параграфа. Содержание </p>
+        </child>
+
+        <child class="child_flex">
+            <h3>Child3 (child_flex)</h3>
+            <!-- Чтобы кнопки выстроились по flex-правилам, раскомментировать .button_flex в CSS -->
+            <div class="button_flex">
+                <button type="button">1</button>
+                <button type="button">2</button>
+                <button type="button">3</button>
+            </div>
+            <div>
+                <img src="" alt="">
+                <p>Содержание параграфа. Содержание параграфа. Содержание параграфа</p>
+            </div>
+            <div>
+                <p>Содержание параграфа. Содержание параграфа</p>
+            </div>
+        </child>
+
+    </parent>
+
+</body>
+
+</html>
